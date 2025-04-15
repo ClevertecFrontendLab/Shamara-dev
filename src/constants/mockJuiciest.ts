@@ -1,0 +1,98 @@
+export const mockJuiciest = [
+    {
+        id: 1,
+        image: '/src/assets/images/menu_img_9.png',
+        badgeIcon: '/src/assets/icons/pan.svg',
+        badgeTitle: 'Вторые блюда',
+        badgeColor: 'lime.50',
+        favoriteCount: '258',
+        likeCount: '342',
+        title: 'Лапша с курицей и шафраном',
+        description:
+            'Как раз после праздников, когда мясные продукты еще остались, но никто их уже не хочет, время варить солянку.',
+    },
+    {
+        id: 2,
+        image: '/src/assets/images/menu_img_3.png',
+        badgeIcon: '/src/assets/icons/international.svg',
+        badgeTitle: 'Национальные',
+        badgeColor: 'lime.50',
+        favoriteCount: '324',
+        likeCount: '124',
+        title: 'Том-ям с капустой кимчи',
+        description:
+            'Как раз после праздников, когда мясные продукты еще остались, но никто их уже не хочет, время варить солянку.',
+    },
+    {
+        id: 3,
+        image: '/src/assets/images/menu_img_10.png',
+        badgeIcon: '/src/assets/icons/pan.svg',
+        badgeTitle: 'Вторые блюда',
+        badgeColor: 'lime.50',
+        favoriteCount: '324',
+        likeCount: '124',
+        title: 'Пряная ветчина по итальянски',
+        description:
+            'Как раз после праздников, когда мясные продукты еще остались, но никто их уже не хочет, время варить солянку.',
+    },
+    {
+        id: 4,
+        image: '/src/assets/images/menu_img_11.png',
+        badgeIcon: '/src/assets/icons/pan.svg',
+        badgeTitle: 'Вторые блюда',
+        badgeColor: 'lime.50',
+        favoriteCount: '85',
+        likeCount: '152',
+        title: 'Кнели со спагетти',
+        description:
+            'Как раз после праздников, когда мясные продукты еще остались, но никто их уже не хочет, время варить солянку.',
+    },
+    {
+        id: 5,
+        image: '/src/assets/images/menu_img_1.png',
+        badgeIcon: '/src/assets/icons/international.svg',
+        badgeTitle: 'Национальные',
+        badgeColor: 'lime.50',
+        favoriteCount: '85',
+        likeCount: '152',
+        title: 'Картошка, тушенная с болгарским перцем и фасолью в томатном соусе',
+        description:
+            'Картошка, тушенная с болгарским перцем, фасолью, морковью и луком, - вариант сытного блюда на каждый день. Фасоль в данном случае заменяет мясо, делая рагу сытным и питательным.',
+    },
+    {
+        id: 6,
+        image: '/src/assets/images/menu_img_2.png',
+        badgeIcon: '/src/assets/icons/child.svg',
+        badgeTitle: 'Детские блюда',
+        badgeColor: 'lime.50',
+        favoriteCount: '85',
+        likeCount: '152',
+        title: 'Картофельные рулетики с грибами',
+        description:
+            'Рекомендую всем приготовить постное блюдо из картофеля и грибов. Готовится это блюдо без яиц, без мяса и без сыра, из самых простых ингредиентов, а получается очень вкусно и сытно.',
+    },
+    {
+        id: 7,
+        image: '/src/assets/images/menu_img_4.png',
+        badgeIcon: '/src/assets/icons/grill.svg',
+        badgeTitle: 'Блюда на гриле',
+        badgeColor: 'lime.50',
+        favoriteCount: '85',
+        likeCount: '152',
+        title: 'Овощная лазанья из лаваша',
+        description:
+            'Большое, сытное блюдо для ценителей блюд без мяса! Такая лазанья готовится с овощным соусом и соусом бешамель, а вместо листов для лазаньи используется тонкий лаваш.',
+    },
+    {
+        id: 8,
+        image: '/src/assets/images/menu_img_6.png',
+        badgeIcon: '/src/assets/icons/pan.svg',
+        badgeTitle: 'Вторые блюда',
+        badgeColor: 'lime.50',
+        favoriteCount: '85',
+        likeCount: '152',
+        title: 'Тефтели из булгура и чечевицы, запечённые в томатном соусе',
+        description:
+            'Тефтели из булгура и чечевицы – яркие и питательные, отлично подходят для постного и вегетарианского меню.',
+    },
+];
